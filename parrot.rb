@@ -8,7 +8,7 @@ end
 parrot
 
 
-def parrot("Pretty bird!")
+def parrot(name = "Pretty bird!")
   puts "Squawk!"
   "Squawk!"
 end
