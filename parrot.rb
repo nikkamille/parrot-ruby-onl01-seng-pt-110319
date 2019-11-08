@@ -9,15 +9,10 @@ end
 parrot
 
 
-# def parrot(name = "Pretty bird!")
-#  puts "Squawk!"
-#  "Squawk!"
-# end
+def parrot(name)
+  puts "Pretty bird!"
+  "Pretty bird!"
+end
 
-# parrot
-
-
-# def parrot(name)
-#  puts "Pretty bird!"
-# end
+parrot("Pretty bird!")
 
