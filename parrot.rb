@@ -3,23 +3,21 @@
 
 def parrot
   puts "Squawk!"
-end
-
-parrot
-
-
-def parrot(name = "Pretty bird!")
-  puts "Squawk!"
   "Squawk!"
 end
 
 parrot
 
 
-def parrot(name)
-  puts "Pretty bird!"
-end
+# def parrot(name = "Pretty bird!")
+#  puts "Squawk!"
+#  "Squawk!"
+# end
 
-parrot("Pretty bird!")
+# parrot
 
+
+# def parrot(name)
+#  puts "Pretty bird!"
+# end
 
